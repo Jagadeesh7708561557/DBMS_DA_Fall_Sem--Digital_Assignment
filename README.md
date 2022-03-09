@@ -1,7 +1,7 @@
 # DBMS_DA_Fall_Sem--Digital_Assignment
  Medical Store Management software is a general software developed for Medical Store. This software helps the medical store professional to do the billing and stock maintenance.
 
-## 18MIS0271 - H JAGADEESH :: 18MIS0273 - B SUDHARSHAN
+## 18MIS0271 - H JAGADEESH
 
 Modules-
 This medical store management system will provide us the given modules,
